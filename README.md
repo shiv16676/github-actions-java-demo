@@ -5,7 +5,7 @@ using **GitHub Actions**.
 
 ## 🔧 What it does
 - Checks out the code
-- Sets up Java 17
+- Sets up Java 21
 - Builds the project using Maven
 
 ## 🚀 Purpose
